@@ -1,7 +1,7 @@
 # Gemini Chatbot React
 
 Un chatbot interactif développé avec **React.js** qui se connecte à l'API **Gemini** (Google AI) pour générer des réponses intelligentes en temps réel.  
-Ce projet reproduit une interface similaire à un chat, avec une zone de saisie et un affichage dynamique des réponses.
+Ce projet reproduit une interface moderne d'un chat, avec une zone de saisie et un affichage dynamique des réponses.
 
 ---
 
